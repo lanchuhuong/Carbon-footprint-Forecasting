@@ -1,1 +1,1 @@
-Monthly/Annual carbon dioxide emissions from electricity generation from the Energy Information Administration. Data is broken down by fuel type.
+Description: This project aims at forecasting carbon footprint from electricity generation available at the Energy Information Administration and Jason McNeill. The dataset includes CO2 emissions from each energy resource starting January 1973 to July 2016. https://www.eia.gov/electricity/data.php#elecenv
